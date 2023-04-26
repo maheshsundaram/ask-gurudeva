@@ -1,0 +1,22 @@
+{
+  "name": "gurudeva.app",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^0.0.14",
+    "dotenv": "^16.0.3",
+    "langchain": "^0.0.64"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.1",
+    "typescript": "^5.1.0-beta"
+  }
+}

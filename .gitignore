@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.vim/
+node_modules/
+app.js
+.env
+todo.md
