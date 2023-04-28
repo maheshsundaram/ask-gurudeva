@@ -1,6 +1,12 @@
-# Ask the Master Course
+# Ask Gurudeva
 
-Ask the Master Course a question and get a natural language response and cited sources.
+Ask the corpus of Gurudeva's books a question and get a natural language response with cited sources.
+
+Current sources of data:
+
+- Dancing with Siva
+- Living with Siva
+- Merging with Siva
 
 ## Built With
 
@@ -32,5 +38,10 @@ Question is embedded using OpenAI Embeddings API, queried against the Pinecone I
 
 Searching...
 
-Answer: The dot that Hindus wear on their forehead is called a bindi in the Hindi language, bindu in Sanskrit and pottu in Tamil. As found in the following sources: Lesson 310 from Living with Siva and Sutra 296 of the Nandinatha Sutras.
+Answer: The dot that Hindus wear on their forehead is called a bindi in the Hindi language,
+ bindu in Sanskrit and pottu in Tamil.
+
+As found in the following sources:
+
+Lesson 310 from Living with Siva and Sutra 296 of the Nandinatha Sutras.
 ```
